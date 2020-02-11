@@ -1,0 +1,9 @@
+.beat {
+  width: 100px;
+  height: 100px; 
+}
+
+body {
+  background: url("../images/006_3A.jpg");
+background-size: cover;
+ }
